@@ -27,7 +27,7 @@ Query2:
 Query3:
 > "SELECT user_fname, user_lname FROM users_listened_this_song WHERE song_title ='All Hands Against His Own'"
 
-![all_tables.png](attachment:all_tables.png)
+![tables](/images/all_tables.png "CQL tables design")
 
 ### Setting environment
 
