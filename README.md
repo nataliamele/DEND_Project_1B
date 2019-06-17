@@ -1,4 +1,4 @@
-#### Project 1B
+#### DEND Project 1B
 
 # Data Modeling with Apache Cassandra
 
